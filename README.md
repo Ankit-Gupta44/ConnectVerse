@@ -6,12 +6,12 @@ Developed a real-time chat application using the MERN stack (MongoDB, Express.js
 
 Key Points:
 
-Real-time chat application with MERN stack and React native
-User-friendly features and security focus
-Follow requests and request acceptance/decline
-Text conversations with emoji support
-Photo sharing capabilities
-Selected message deletion for both users
-Proficient in application development, RESTful APIs, and database management
-By presenting the project description in a clear and straightforward manner, using relevant keywords, and avoiding complex formatting, you increase the chances of getting past the ATS screening and showcasing your skills effectively to potential employers.
+.Real-time chat application with MERN stack and React native
+.User-friendly features and security focus
+.Follow requests and request acceptance/decline
+.Text conversations with emoji support
+.Photo sharing capabilities
+.Selected message deletion for both users
+.Proficient in application development, RESTful APIs, and database management
+
 
